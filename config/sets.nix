@@ -32,8 +32,6 @@
 
       cursorline = true;
 
-      scrolloff = 8;
-
       encoding = "utf-8";
       fileencoding = "utf-8";
 
