@@ -14,5 +14,12 @@
     ./completion/cmp.nix
 
     ./snippets/luasnip.nix
+
+    ./direnv/direnv.nix
+
+    ./statusline/lualine.nix
+    ./statusline/staline.nix
+
+    ./telescope/telescope.nix
   ];
 }
