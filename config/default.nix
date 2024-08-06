@@ -1,6 +1,7 @@
 {
   # Import all your configuration modules here
   imports = [
+    ./sets.nix
     ./bufferline.nix
 
     ./treesitter/treesitter.nix
@@ -12,6 +13,7 @@
     ./lsp/lsp.nix
 
     ./completion/cmp.nix
+    ./completion/lspkind.nix
 
     ./snippets/luasnip.nix
 
@@ -21,5 +23,9 @@
     ./statusline/staline.nix
 
     ./telescope/telescope.nix
+
+    ./ui/indent-blankline.nix
+
+    ./lazy/lazy.nix
   ];
 }
