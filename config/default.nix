@@ -12,5 +12,7 @@
     ./lsp/lsp.nix
 
     ./completion/cmp.nix
+
+    ./snippets/luasnip.nix
   ];
 }
