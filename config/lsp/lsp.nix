@@ -24,6 +24,9 @@
             };
           };
         };
+        hls = {
+          enable = true;
+        };
         nil-ls = {enable = true;};
         tsserver = {
           enable = false;
