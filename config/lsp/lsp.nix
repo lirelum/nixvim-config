@@ -26,6 +26,7 @@
         };
         hls = {
           enable = true;
+          package = null;
         };
         nil-ls = {enable = true;};
         tsserver = {
