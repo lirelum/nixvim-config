@@ -27,5 +27,7 @@
     ./ui/indent-blankline.nix
 
     ./lazy/lazy.nix
+
+    ./vimtex/vimtex.nix
   ];
 }
